@@ -1,6 +1,6 @@
-# HAProxy gRPC Sample
+# HAProxy gRPC with multiple servers
 
-Demonstrates proxying gRPC traffic with HAProxy.
+Demonstrates proxying gRPC traffic with HAProxy for multiple servers.
 
 ## Set Up
 
